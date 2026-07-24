@@ -1,0 +1,13 @@
+{
+  "name": "Icefields Explorer",
+  "version": "5.1.0",
+  "release": "Clean GitHub Pages package",
+  "features": [
+    "Explorer view",
+    "Journal view",
+    "Selectable map backgrounds",
+    "Full-trip interactive charts",
+    "Persistent synchronized photos",
+    "Garmin-compatible cadence averaging"
+  ]
+}
