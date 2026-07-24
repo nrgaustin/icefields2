@@ -1,7 +1,7 @@
 {
   "name": "Icefields Explorer",
-  "version": "5.1.0",
-  "release": "Clean GitHub Pages package",
+  "version": "5.2.0",
+  "release": "Photo expansion 01\u201302",
   "features": [
     "Explorer view",
     "Journal view",
@@ -9,5 +9,7 @@
     "Full-trip interactive charts",
     "Persistent synchronized photos",
     "Garmin-compatible cadence averaging"
-  ]
+  ],
+  "photo_count": 175,
+  "new_photo_count": 156
 }
